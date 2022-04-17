@@ -1,6 +1,6 @@
 ### Hi there! Thanks for visiting!👋
 
-Nice to meet you! I'm Grace Gardner, a former graphic designer and current Frontend Software Engineer! 
+Nice to meet you! I'm Grace Gardner, a former graphic designer and current Frontend Software Engineer and Turing School of Software and Design Graduate! 
 
 - 👻 I’m currently working on my portfolio website... updates and goofy animations coming soon!
 - 💻 I’m currently learning Ruby, Redux, PWA, TypeScript, Next.js and how to grow watermelons.

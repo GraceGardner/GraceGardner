@@ -9,7 +9,7 @@ Nice to meet you! I'm Grace Gardner, a former graphic designer and current Front
 - 😄 Pronouns: She/Her
 
 ⚡ Fun facts about me: 
-- ![image](https://user-images.githubusercontent.com/42048868/163700813-4ba965d4-7726-4ce8-aedb-668b02fffc05.png) My ferrets have their own instagram @TheCasualFerret. 
+- ![image](https://user-images.githubusercontent.com/42048868/163700813-4ba965d4-7726-4ce8-aedb-668b02fffc05.png width="100" height="100") My ferrets have their own instagram @TheCasualFerret. 
 - 🪴 I have over 300 house plants and love to look at them under my microscope, because plant cells are cool. 
 - 🐌 My husband and I have two dogs, two ferrets, two birds, one fish and a pet land snail. 
 - 🍳 For a while I taught cooking classes at Sur La Table. 

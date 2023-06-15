@@ -51,4 +51,4 @@ Nice to meet you! I'm Grace Gardner, former graphic designer, operations manager
 ![DreamWeaver](https://aleen42.github.io/badges/src/dreamweaver.svg)
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gracegardner&theme=radical&show_icons=true)
+<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gracegardner&theme=radical&show_icons=true) -->

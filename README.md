@@ -3,25 +3,23 @@
 Nice to meet you! I'm Grace Gardner, former graphic designer, operations manager, and engraving specialist, current Frontend Software Engineer and Turing School of Software and Design Graduate! 
 
 - 👻 I’m currently working on my portfolio website... updates and goofy animations coming soon!
-- 💻 I’m currently learning Ruby, Redux, PWA, TypeScript, Next.js and how to grow watermelons.
-- 👯 I’m looking to collaborate on anything and everything! Please reachout to collab or just to say hello! 
+- 💻 Using Typescript, Svelte, Temporal, Tailwind, React, Next.js 
 - 📫 How to reach me: graceirisgardner@gmail.com
 - 😄 Pronouns: She/Her
 
-⚡ Fun facts about me: 
+⚡ About me:
 
 
 <img src="https://user-images.githubusercontent.com/42048868/163700813-4ba965d4-7726-4ce8-aedb-668b02fffc05.png" width="200" height="200" border="10"/>
 
-- 📸 My ferrets have their own instagram @TheCasualFerret. 
-- 🪴 I have over 300 house plants and love to look at them under my microscope, because plant cells are cool. 
-- 🐌 My husband and I have two dogs, two ferrets, two birds, one fish and a pet land snail. 
-- 🍳 For a while I taught cooking classes at Sur La Table. 
-- 🐝 This summer I plan to catalogue the bee species that visit my yard! (And I collect books on identifying bees)
-- 🦜 I'm an avid bird watcher and photographer. My retirement goal is to be able to photograph birds around the world! 
+- 📸 Used to maintain an instagram for my ferrets @TheCasualFerret.
+- 🐇 Follow my bunny, Hazel, on instagram @HazelBunnyLop.
+- 🪴 I have over 300 house plants and look at them under my microscope, because plant cells are cool. 
+- 🐌 My husband and I have three dogs, one bunny, four birds, lots of fish, five turantuals, and a pet land snail. 
+- 🦜 I'm an avid bird watcher and hobby photographer. My retirement goal is to be able to photograph birds around the world.
 
 
-### Tech I love:
+### Tech I have used:
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -48,7 +46,6 @@ Nice to meet you! I'm Grace Gardner, former graphic designer, operations manager
 ![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
 ![PhotoShop](https://aleen42.github.io/badges/src/photoshop.svg)
 ![Illustrator](https://aleen42.github.io/badges/src/illustrator.svg)
-![DreamWeaver](https://aleen42.github.io/badges/src/dreamweaver.svg)
 
 
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gracegardner&theme=radical&show_icons=true) -->
